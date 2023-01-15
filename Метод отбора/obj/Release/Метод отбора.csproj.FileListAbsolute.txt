@@ -1,0 +1,28 @@
+D:\others\univer\ВКР4-2019\ВКР\Метод отбора\bin\Release\Метод отбора.exe.config
+D:\others\univer\ВКР4-2019\ВКР\Метод отбора\bin\Release\Метод отбора.exe
+D:\others\univer\ВКР4-2019\ВКР\Метод отбора\bin\Release\Метод отбора.pdb
+D:\others\univer\ВКР4-2019\ВКР\Метод отбора\obj\Release\Метод отбора.csprojAssemblyReference.cache
+D:\others\univer\ВКР4-2019\ВКР\Метод отбора\obj\Release\Методотбора.About.resources
+D:\others\univer\ВКР4-2019\ВКР\Метод отбора\obj\Release\Методотбора.Help.resources
+D:\others\univer\ВКР4-2019\ВКР\Метод отбора\obj\Release\Методотбора.Method.resources
+D:\others\univer\ВКР4-2019\ВКР\Метод отбора\obj\Release\Методотбора.Properties.Resources.resources
+D:\others\univer\ВКР4-2019\ВКР\Метод отбора\obj\Release\Метод отбора.csproj.GenerateResource.cache
+D:\others\univer\ВКР4-2019\ВКР\Метод отбора\obj\Release\Метод отбора.csproj.CoreCompileInputs.cache
+D:\others\univer\ВКР4-2019\ВКР\Метод отбора\obj\Release\Метод отбора.exe
+D:\others\univer\ВКР4-2019\ВКР\Метод отбора\obj\Release\Метод отбора.pdb
+D:\others\univer\ВКР4-2019\ВКР\Метод отбора\obj\Release\Методотбора.HelpCall.resources
+D:\others\univer\ВКР4-2019\ВКР\Метод отбора\obj\Release\Методотбора.Service.resources
+D:\others\univer\ВКР\Проект программы\Метод отбора\bin\Release\Метод отбора.exe.config
+D:\others\univer\ВКР\Проект программы\Метод отбора\bin\Release\Метод отбора.exe
+D:\others\univer\ВКР\Проект программы\Метод отбора\bin\Release\Метод отбора.pdb
+D:\others\univer\ВКР\Проект программы\Метод отбора\obj\Release\Метод отбора.csprojAssemblyReference.cache
+D:\others\univer\ВКР\Проект программы\Метод отбора\obj\Release\Методотбора.About.resources
+D:\others\univer\ВКР\Проект программы\Метод отбора\obj\Release\Методотбора.Help.resources
+D:\others\univer\ВКР\Проект программы\Метод отбора\obj\Release\Методотбора.HelpCall.resources
+D:\others\univer\ВКР\Проект программы\Метод отбора\obj\Release\Методотбора.Method.resources
+D:\others\univer\ВКР\Проект программы\Метод отбора\obj\Release\Методотбора.Properties.Resources.resources
+D:\others\univer\ВКР\Проект программы\Метод отбора\obj\Release\Методотбора.Service.resources
+D:\others\univer\ВКР\Проект программы\Метод отбора\obj\Release\Метод отбора.csproj.GenerateResource.cache
+D:\others\univer\ВКР\Проект программы\Метод отбора\obj\Release\Метод отбора.csproj.CoreCompileInputs.cache
+D:\others\univer\ВКР\Проект программы\Метод отбора\obj\Release\Метод отбора.exe
+D:\others\univer\ВКР\Проект программы\Метод отбора\obj\Release\Метод отбора.pdb
